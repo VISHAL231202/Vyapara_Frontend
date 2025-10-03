@@ -1,0 +1,19 @@
+// project colors
+
+:root {
+  --theme-default: #b46b0d !important;
+}
+
+// Change in variables.scss for the primary-color
+// $primary-color: #f2be50 !important;
+
+//header close btn
+.close-btn {
+  padding: 0.5rem;
+}
+
+//breadcrumb header
+
+.page-title .breadcrumb-item.active {
+  color: rgba($primary-color, 1);
+}
