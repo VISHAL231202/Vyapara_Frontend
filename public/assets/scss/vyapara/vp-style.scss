@@ -4,6 +4,39 @@
   --theme-default: #b46b0d !important;
 }
 
+// Hiding the setting icon
+.sidebar-pannle-main {
+  display: none !important;
+}
+
+// System Settings-Table-Action Column-buttons starts
+.tb-action-flex {
+  display: flex;
+}
+
+.tb-action-button {
+  display: flex;
+  justify-content: center;
+  padding: 7px 12px;
+  margin: 5px;
+  align-items: center;
+  font-size: 14px;
+  > i {
+    color: white;
+    margin-right: 3px;
+    scale: 0.8;
+  }
+}
+
+// System Settings-Table-Action Column-buttons ends
+
+// Table Modal Starts
+.tableModal {
+  background-color: #fcfcfc;
+  background-image: none;
+}
+//Table Modal Ends
+
 // Change in variables.scss for the primary-color
 // $primary-color: #f2be50 !important;
 
