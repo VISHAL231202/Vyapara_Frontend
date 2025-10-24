@@ -1,6 +1,6 @@
 {
   "name": "vyapara",
-  "homepage": "https://react.pixelstrap.net/edmin",
+  "homepage": "https://react.pixelstrap.net",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -82,6 +82,7 @@
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.21.0",
     "react-scripts": "5.0.1",
+    "react-secure-storage": "^1.3.2",
     "react-simple-star-rating": "^5.1.7",
     "react-simplemde-editor": "^5.2.0",
     "react-slick": "^0.30.2",

@@ -37,6 +37,36 @@
 }
 //Table Modal Ends
 
+// Login Page Starts
+.login-card {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 155, 59, 0.529),
+    rgba(255, 170, 78, 0.278)
+  ) !important;
+}
+
+
+// .custom-login-btn.btn-primary {
+//   transition: all 0.2s ease-in-out;
+// }
+
+// .custom-login-btn.btn-primary:active,
+// .custom-login-btn.btn-primary.active,
+// .custom-login-btn.btn-primary:focus {
+//   background-color: transparent !important;
+//   border-color: #f2be50 !important;
+//   // color: #f2be50 !important;
+// }
+
+// Login Page Ends
+
+// Loader Color Starts
+.swal2-loader {
+  border-color: #f2be50 transparent #f2be50 transparent !important; /* Example: Indigo */
+}
+// Loader Color Ends
+
 // Change in variables.scss for the primary-color
 // $primary-color: #f2be50 !important;
 
